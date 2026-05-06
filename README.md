@@ -3,7 +3,7 @@
 Bu proje, R programlama dili kullanılarak Türkiye'nin 2014-2024 yılları arasındaki inovasyon ekosistemini (patent başvuruları, faydalı model tescilleri, onay performansları vb.) analiz eden kapsamlı bir veri görselleştirme çalışmasıdır.
 
 ## Proje Hakkında
-TÜRKPATENT ve TÜİK verileri baz alınarak, ülkenin fikri mülkiyet, Ar-Ge ve inovasyon performansı farklı görselleştirme teknikleriyle incelenmiştir. Kodlar tamamen dinamik olarak çalışmakta olup, veri setlerini okuyup otomatik olarak temizler ve grafikleri çizer.
+TÜRKPATENT verileri baz alınarak, ülkenin fikri mülkiyet, Ar-Ge ve inovasyon performansı farklı görselleştirme teknikleriyle incelenmiştir. Kodlar tamamen dinamik olarak çalışmakta olup, veri setlerini okuyup otomatik olarak temizler ve grafikleri çizer.
 
 ### İçerilen Grafikler:
 1. **Toplam Üretim Hacmi:** Yıllara göre patent ve faydalı model başvurularının genel toplam kıyaslaması (Yan yana sütun grafiği).
