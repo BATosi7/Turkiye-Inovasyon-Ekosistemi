@@ -19,3 +19,7 @@ Projeyi kendi bilgisayarınızda (RStudio üzerinde) çalıştırmak için:
 2. `TR_inovasyon_ekosistemi.R` dosyasını RStudio ile açın.
 3. Kodların tamamını seçip çalıştırın (`Run`). 
 4. Eksik olan paketler (`ggplot2`, `dplyr`, `tidyr`, `scales`, `readxl`, `ggrepel`) kodun başındaki otomatik kontrol mekanizması ile sisteminize kendi kendine kurulacaktır. Dışarıdan manuel bir dosya yolu girmenize gerek yoktur.
+
+## Kaynak
+TURKPATENT
+https://www.turkpatent.gov.tr/patent-istatistik
