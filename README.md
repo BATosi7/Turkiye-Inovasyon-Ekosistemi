@@ -25,16 +25,16 @@ TURKPATENT
 https://www.turkpatent.gov.tr/patent-istatistik
 
 ## Hakkımızda
-Hazırlayanlar: 
-Ad Soyad: Osman Çizmeci
+
+### Osman Çizmeci
 E-Posta: osmancizme7@gmail.com
 LinkedIn: https://www.linkedin.com/in/osman-cizmeci/
 GitHub: https://github.com/BATosi7
 
-Ad Soyad: Talayhan Tuğra Tokur
+### Talayhan Tuğra Tokur
 E-Posta: talayhantokur@gmail.com
 LinkedIn: https://www.linkedin.com/in/talayhantugratokur/
 GitHub: https://github.com/thetokur
 
-Danışman:
+## Danışman:
 Doç.Dr. Volkan Soner ÖZSOY
