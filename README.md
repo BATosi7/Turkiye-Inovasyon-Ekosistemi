@@ -24,7 +24,7 @@ Projeyi kendi bilgisayarınızda (RStudio üzerinde) çalıştırmak için:
 TURKPATENT
 https://www.turkpatent.gov.tr/patent-istatistik
 
-## Hakkımızda
+## Hazırlayanlar
 
 ### Osman Çizmeci
 - E-Posta: osmancizme7@gmail.com
