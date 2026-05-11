@@ -27,14 +27,14 @@ https://www.turkpatent.gov.tr/patent-istatistik
 ## Hakkımızda
 
 ### Osman Çizmeci
-E-Posta: osmancizme7@gmail.com
-LinkedIn: https://www.linkedin.com/in/osman-cizmeci/
-GitHub: https://github.com/BATosi7
+- E-Posta: osmancizme7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/osman-cizmeci/
+- GitHub: https://github.com/BATosi7
 
 ### Talayhan Tuğra Tokur
-E-Posta: talayhantokur@gmail.com
-LinkedIn: https://www.linkedin.com/in/talayhantugratokur/
-GitHub: https://github.com/thetokur
+- E-Posta: talayhantokur@gmail.com
+- LinkedIn: https://www.linkedin.com/in/talayhantugratokur/
+- GitHub: https://github.com/thetokur
 
 ## Danışman:
-Doç.Dr. Volkan Soner ÖZSOY
+- Doç.Dr. Volkan Soner ÖZSOY
